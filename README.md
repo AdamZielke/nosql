@@ -93,7 +93,7 @@ Lista:
 1. Rawicki, Wojciech
 1. Wasilewski, Tomasz
 1. Wołek, Łukasz
-1. Zielke, Adam
+1. Zielke, Adam [Użycie Map Reduce w MongoDB](https://github.com/AdamZielke/mapreduce)
 
 
 ## Simple Rules for Reproducible Computations
